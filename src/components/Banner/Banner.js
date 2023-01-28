@@ -42,7 +42,7 @@ function Banner() {
               color: "rgb(0 11 33)"
             }}
           >
-            CryptOR - The Crypto Trackor App
+            CryptoPluse - The Real-time Crypto Trackor
           </Typography>
           <Typography
             variant="subtitle2"
